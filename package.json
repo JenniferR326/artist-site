@@ -1,0 +1,23 @@
+{
+  "name": "musicianWebsite",
+  "version": "1.0.0",
+  "description": "This is a mock website created for the singer SADE. Made with HTML and CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferR326/musicianWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenniferR326/musicianWebsite/issues"
+  },
+  "homepage": "https://github.com/JenniferR326/musicianWebsite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
