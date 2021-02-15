@@ -1,3 +1,3 @@
-This is a website created for the singer SADE. Made with HTML and CSS.
+This is a static website for the singer Sade
 
-jenniferr326.github.io/musicianWebsite 
+jenniferr326.github.io/artist-site
